@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './todo-styles.css'
+import './style.css'
 
 const Todo = () => {
     const [todos, setTodos] = useState([])
