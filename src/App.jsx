@@ -1,10 +1,9 @@
-import React from 'react'
-import Counter from './components/Counter'
+import Meals from './components/Meals/Meals'
+import Todo from './components/Todo/Todo'
 
 const App = () => {
   return (
     <div>
-      <Counter />
     </div>
   )
 }
